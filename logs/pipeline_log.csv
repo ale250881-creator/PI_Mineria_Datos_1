@@ -1,0 +1,7 @@
+Paso,Descripción,Filas,Nulos,Retención (%)
+0,"Dataset original (carga e inspección inicial, sin modificaciones)",8160,753,100.0
+1,Eliminación de duplicados (user_id),8000,753,98.04
+2,"Normalización de subscription_plan, country, favorite_genre",8000,753,98.04
+3,"Corrección de valores imposibles (age, monthly_watch_time_mins, customer_support_tickets)",8000,905,98.04
+4,Tratamiento de outliers: valores imposibles en monthly_watch_time_mins y customer_support_tickets,8000,1003,98.04
+5,"Imputación diferenciada: age/tickets (mediana global), watch_time (mediana por plan-MAR), genre (moda) — last_login_date NO se imputa",8000,320,98.04
