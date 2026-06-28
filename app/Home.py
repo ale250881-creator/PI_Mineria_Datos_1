@@ -5,9 +5,9 @@ st.set_page_config(page_title="Streaming Users — Proyecto Integrador", page_ic
 st.title("🎬 Análisis de Usuarios de una Plataforma de Streaming")
 
 st.markdown("""
-**Integrantes:** _completar nombre y apellido de cada integrante_
-**Comisión:** _completar_
-**Fecha:** _completar_
+**Integrantes:** _Pablo Castillo_
+**Comisión:** _Sede Nodo - Turno Tarde_
+**Fecha:** _Fecha: 28/06/2026_
 
 ### Contexto
 Este proyecto analiza el comportamiento de usuarios de una plataforma de streaming
@@ -15,7 +15,7 @@ Este proyecto analiza el comportamiento de usuarios de una plataforma de streami
 por la cátedra, aplicando un pipeline completo de inspección, calidad de datos, análisis
 exploratorio y reducción de dimensionalidad (PCA).
 
-🔗 **Repositorio:** _completar enlace al repo de GitHub_
+🔗 **Repositorio: [GitHub](https://github.com/ale250881-creator/PI_Mineria_Datos_1)
 """)
 
 st.info("Usá el menú de la izquierda para navegar entre las secciones: Dataset, EDA, PCA y Conclusiones.")
