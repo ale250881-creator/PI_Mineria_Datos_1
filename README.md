@@ -3,9 +3,9 @@
 ## Información general
 
 - **Materia:** Minería de Datos I
-- **Integrantes:** _completar nombre y apellido de cada integrante_
-- **Comisión:** _completar_
-- **Fecha:** _completar_
+- **Integrantes:** Pablo Castillo
+- **Comisión:** Sede Nodo - Turno Tarde
+- **Fecha:** 28/06/2026
 - **Dataset:** usuarios de una plataforma de streaming (provisto por la cátedra)
 
 ## Objetivo del proyecto
