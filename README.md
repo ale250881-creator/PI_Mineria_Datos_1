@@ -71,7 +71,7 @@ PI_Mineria_Datos_1/
 ## Cómo ejecutar localmente
 
 ```bash
-git clone _(https://github.com/ale250881-creator/PI_Mineria_Datos_1)_
+git clone _https://github.com/ale250881-creator/PI_Mineria_Datos_1_
 cd PI_Mineria_Datos_1
 pip install -r requirements.txt
 streamlit run app/Home.py
