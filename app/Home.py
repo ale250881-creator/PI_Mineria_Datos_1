@@ -15,7 +15,7 @@ Este proyecto analiza el comportamiento de usuarios de una plataforma de streami
 por la cátedra, aplicando un pipeline completo de inspección, calidad de datos, análisis
 exploratorio y reducción de dimensionalidad (PCA).
 
-🔗 **Repositorio: [GitHub](https://github.com/ale250881-creator/PI_Mineria_Datos_1)
+🔗 **Repositorio**: [GitHub](https://github.com/ale250881-creator/PI_Mineria_Datos_1)
 """)
 
 st.info("Usá el menú de la izquierda para navegar entre las secciones: Dataset, EDA, PCA y Conclusiones.")
