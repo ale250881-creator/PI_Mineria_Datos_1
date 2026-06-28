@@ -3,9 +3,9 @@
 ## Información general
 
 - **Materia:** Minería de Datos I
-- **Integrantes:** _Pablo Castillo_
-- **Comisión:** _Sede Nodo - Turno Tarde_
-- **Fecha:** _28/06/2026_
+- **Integrantes:** _completar nombre y apellido de cada integrante_
+- **Comisión:** _completar_
+- **Fecha:** _completar_
 - **Dataset:** usuarios de una plataforma de streaming (provisto por la cátedra)
 
 ## Objetivo del proyecto
@@ -66,12 +66,12 @@ PI_Mineria_Datos_1/
 ## Visualización interactiva
 
 - Aplicación en Streamlit con 5 páginas: Home, Dataset, EDA, PCA y Conclusiones (`app/Home.py` y `app/pages/`).
-- App pública: _completar enlace de Streamlit Cloud_
+- App pública: https://trabajo-mineria-de-datos.streamlit.app/
 
 ## Cómo ejecutar localmente
 
 ```bash
-git clone _https://github.com/ale250881-creator/PI_Mineria_Datos_1_
+git clone https://github.com/ale250881-creator/PI_Mineria_Datos_1
 cd PI_Mineria_Datos_1
 pip install -r requirements.txt
 streamlit run app/Home.py
