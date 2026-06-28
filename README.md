@@ -3,9 +3,9 @@
 ## Información general
 
 - **Materia:** Minería de Datos I
-- **Integrantes:** _completar nombre y apellido de cada integrante_
-- **Comisión:** _completar_
-- **Fecha:** _completar_
+- **Integrantes:** _Pablo Castillo_
+- **Comisión:** _Sede Nodo - Turno Tarde_
+- **Fecha:** _28/06/2026_
 - **Dataset:** usuarios de una plataforma de streaming (provisto por la cátedra)
 
 ## Objetivo del proyecto
@@ -71,7 +71,7 @@ PI_Mineria_Datos_1/
 ## Cómo ejecutar localmente
 
 ```bash
-git clone _completar enlace del repositorio_
+git clone _(https://github.com/ale250881-creator/PI_Mineria_Datos_1)_
 cd PI_Mineria_Datos_1
 pip install -r requirements.txt
 streamlit run app/Home.py
