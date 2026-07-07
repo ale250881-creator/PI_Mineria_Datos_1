@@ -5,9 +5,9 @@ st.set_page_config(page_title="Streaming Users — Proyecto Integrador", page_ic
 st.title("🎬 Análisis de Usuarios de una Plataforma de Streaming")
 
 st.markdown("""
-**Integrantes:** _Pablo Castillo_
+**Integrantes:** _Nahuel Bustos, Pablo Castillo, Pablo Curcuy_
 **Comisión:** _Sede Nodo - Turno Tarde_
-**Fecha:** _Fecha: 28/06/2026_
+**Fecha:** _Fecha: 07/07/2026_
 
 ### Contexto
 Este proyecto analiza el comportamiento de usuarios de una plataforma de streaming
