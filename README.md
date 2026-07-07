@@ -3,9 +3,9 @@
 ## Información general
 
 - **Materia:** Minería de Datos I
-- **Integrantes:** Pablo Castillo
+- **Integrantes:** Nahuel Bustos, Pablo Castillo, Pablo Curcuy
 - **Comisión:** Sede Nodo - Turno Tarde
-- **Fecha:** 28/06/2026
+- **Fecha:** 07/07/2026
 - **Dataset:** usuarios de una plataforma de streaming (provisto por la cátedra)
 
 ## Objetivo del proyecto
